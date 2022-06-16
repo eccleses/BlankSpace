@@ -2,6 +2,10 @@ import random
 import time
 import numpy
 #------------------------------------------------------------------------------------------------------
+"""Originally created by Github user eccleses"""
+#------------------------------------------------------------------------------------------------------
+#rev2
+#------------------------------------------------------------------------------------------------------
 """ This program says hello to the user when prompted with the hello() command"""
 def Hello():
     print("Hello!")
@@ -30,17 +34,6 @@ def Matrix(mLoops):
         print(matrixBoolean, end ='')
 
 #------------------------------------------------------------------------------------------------------
-"""
-This program prints random silly messages in case you need facts for a loading screen, stats menu etc.
-Originally created by Github User VeryCoolNameThatIsDefinitelyNotAPlaceholder
-"""
-"""
-HOW TO USE
-1.type filler()
-2.in the brackets, first type the number of facts you want to read/seconds the program will run for/loops of the code from line 25 and below
-3.Type a comma
-4.Type the mode you wish to run. 0 for random, 1 for PC parts, 2 for Things, 3 for Pop Culture(outdated)
-"""
 
 #contains all categories for later displaying
 partVer = ['degreasifying ', 'vicariously sniffing ', 'having an intense staring contest with ','RGX+Testing ', 'Removing hot dog grease from ','Hitting head against ']
