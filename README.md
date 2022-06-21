@@ -14,15 +14,13 @@ BlankSpace.Run.About() describe the purpose of functions, like I am doing now.
 Use the BlankSpace.Run.infiniteMatrix() infinitely prints (meaningless) binary to the standard out.
 
 Use the BlankSpace.Run.Matrix() prints the amount of binary digits put into the brackets after Matrix()
-
-eccleses/BlankSpace is licensed under the GNU General Public License v3.0
-
 # license
+eccleses/BlankSpace is licensed under the Apache-2.0 License
 
-This project is licensed under the Apache-2.0 License
-
-#language and requirements
+# language and dependencies
 
 BlankSpace is written in Python3
 
 You need python downloaded to run this program
+
+It does not require any additional library's installed
