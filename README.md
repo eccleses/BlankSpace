@@ -16,3 +16,13 @@ Use the BlankSpace.Run.infiniteMatrix() infinitely prints (meaningless) binary t
 Use the BlankSpace.Run.Matrix() prints the amount of binary digits put into the brackets after Matrix()
 
 eccleses/BlankSpace is licensed under the GNU General Public License v3.0
+
+# license
+
+This project is licensed under the Apache-2.0 License
+
+#language and requirements
+
+BlankSpace is written in Python3
+
+You need python downloaded to run this program
